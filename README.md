@@ -22,5 +22,5 @@ if (config != null) {
     boolean enabled = config.optBoolean("aimbot_enabled", false);
     double aimSpeed = config.optDouble("aim_speed", 1.0);
     System.out.println("Aimbot enabled: " + enabled);
-    System.out.println("Aim speed: " + aimSpeed);
+    System.out.println("Aim speed: " + aimSpeed);1000
 }
